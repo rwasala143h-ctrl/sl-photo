@@ -1,5 +1,3 @@
-
-'''
 const categories = [
     { id: 'all', name: 'All', icon: 'fa-layer-group', desc: 'Browse all photographers' },
     { id: 'wedding', name: 'Wedding', icon: 'fa-rings-wedding', desc: 'Capture your special day' },
