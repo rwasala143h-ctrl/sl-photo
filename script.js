@@ -355,7 +355,7 @@ const app = {
                 <img src="${item.img}" alt="${item.title}">
                 <div class="portfolio-overlay">
                     <h4>${item.title}</h4>
-                    <p>${item.author} · ${item.category}</p>
+                    <p>${item.author} Â· ${item.category}</p>
                 </div>
             </div>
         `).join('');
